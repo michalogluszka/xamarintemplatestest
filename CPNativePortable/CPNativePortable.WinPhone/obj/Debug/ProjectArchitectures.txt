@@ -1,0 +1,2 @@
+C:\Projects\xamarintemplatestest\CPNativePortable\CPNativePortable.WinPhone\CPNativePortable.WinPhone.csproj;neutral
+C:\Projects\xamarintemplatestest\CPNativePortable\CPNativePortable\CPNativePortable.csproj;neutral

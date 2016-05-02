@@ -1,0 +1,4 @@
+CPNativePortable.Droid.MainActivity, CPNativePortable.Droid;md529628a25dc775d2d7e9118e7fc75531b.MainActivity
+CPNativePortable.Droid.MainActivity, CPNativePortable.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md529628a25dc775d2d7e9118e7fc75531b.MainActivity
+CPNativePortable.Droid.MainActivity;md529628a25dc775d2d7e9118e7fc75531b.MainActivity
+cpnativeportable.droid.MainActivity;md529628a25dc775d2d7e9118e7fc75531b.MainActivity

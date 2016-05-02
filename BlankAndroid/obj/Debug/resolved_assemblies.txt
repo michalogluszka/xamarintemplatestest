@@ -1,0 +1,9 @@
+C:\Projects\xamarintemplatestest\BlankAndroid\obj\Debug\assemblies\BlankAndroid.dll
+C:\Projects\xamarintemplatestest\BlankAndroid\obj\Debug\assemblies\Mono.Android.dll
+C:\Projects\xamarintemplatestest\BlankAndroid\obj\Debug\assemblies\mscorlib.dll
+C:\Projects\xamarintemplatestest\BlankAndroid\obj\Debug\assemblies\System.Core.dll
+C:\Projects\xamarintemplatestest\BlankAndroid\obj\Debug\assemblies\System.dll
+C:\Projects\xamarintemplatestest\BlankAndroid\obj\Debug\assemblies\System.Xml.dll
+C:\Projects\xamarintemplatestest\BlankAndroid\obj\Debug\assemblies\System.Xml.Linq.dll
+C:\Projects\xamarintemplatestest\BlankAndroid\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Projects\xamarintemplatestest\BlankAndroid\obj\Debug\assemblies\System.ServiceModel.Internals.dll

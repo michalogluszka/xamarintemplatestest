@@ -1,0 +1,1 @@
+C:\Projects\xamarintemplatestest\CPNativeShared\CPNativeShared.WinPhone\CPNativeShared.WinPhone.csproj;neutral

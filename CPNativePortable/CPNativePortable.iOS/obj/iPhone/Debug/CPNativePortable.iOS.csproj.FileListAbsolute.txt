@@ -1,0 +1,14 @@
+C:\Projects\xamarintemplatestest\CPNativePortable\CPNativePortable.iOS\bin\iPhone\Debug\CPNativePortableiOS.exe
+C:\Projects\xamarintemplatestest\CPNativePortable\CPNativePortable.iOS\bin\iPhone\Debug\CPNativePortableiOS.pdb
+C:\Projects\xamarintemplatestest\CPNativePortable\CPNativePortable.iOS\bin\iPhone\Debug\CPNativePortable.dll
+C:\Projects\xamarintemplatestest\CPNativePortable\CPNativePortable.iOS\bin\iPhone\Debug\CPNativePortable.pdb
+C:\Projects\xamarintemplatestest\CPNativePortable\CPNativePortable.iOS\bin\iPhone\Debug\CPNativePortable.dll.mdb
+C:\Projects\xamarintemplatestest\CPNativePortable\CPNativePortable.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Projects\xamarintemplatestest\CPNativePortable\CPNativePortable.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Projects\xamarintemplatestest\CPNativePortable\CPNativePortable.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Projects\xamarintemplatestest\CPNativePortable\CPNativePortable.iOS\obj\iPhone\Debug\optimized\
+C:\Projects\xamarintemplatestest\CPNativePortable\CPNativePortable.iOS\obj\iPhone\Debug\CPNativePortable.iOS.csprojResolveAssemblyReference.cache
+C:\Projects\xamarintemplatestest\CPNativePortable\CPNativePortable.iOS\obj\iPhone\Debug\CPNativePortableiOS.exe
+C:\Projects\xamarintemplatestest\CPNativePortable\CPNativePortable.iOS\obj\iPhone\Debug\CPNativePortableiOS.pdb
+C:\Projects\xamarintemplatestest\CPNativePortable\CPNativePortable.iOS\obj\iPhone\Debug\CPNativePortableiOS.exe.mdb
+C:\Projects\xamarintemplatestest\CPNativePortable\CPNativePortable.iOS\bin\iPhone\Debug\CPNativePortableiOS.exe.mdb

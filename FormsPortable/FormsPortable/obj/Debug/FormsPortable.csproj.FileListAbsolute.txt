@@ -1,0 +1,10 @@
+C:\Projects\xamarintemplatestest\FormsPortable\FormsPortable\bin\Debug\FormsPortable.dll
+C:\Projects\xamarintemplatestest\FormsPortable\FormsPortable\bin\Debug\FormsPortable.pdb
+C:\Projects\xamarintemplatestest\FormsPortable\FormsPortable\bin\Debug\Xamarin.Forms.Core.dll
+C:\Projects\xamarintemplatestest\FormsPortable\FormsPortable\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Projects\xamarintemplatestest\FormsPortable\FormsPortable\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Projects\xamarintemplatestest\FormsPortable\FormsPortable\bin\Debug\Xamarin.Forms.Core.xml
+C:\Projects\xamarintemplatestest\FormsPortable\FormsPortable\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Projects\xamarintemplatestest\FormsPortable\FormsPortable\obj\Debug\FormsPortable.csprojResolveAssemblyReference.cache
+C:\Projects\xamarintemplatestest\FormsPortable\FormsPortable\obj\Debug\FormsPortable.dll
+C:\Projects\xamarintemplatestest\FormsPortable\FormsPortable\obj\Debug\FormsPortable.pdb

@@ -1,0 +1,2 @@
+C:\Projects\xamarintemplatestest\FormsPortable\FormsPortable.WinPhone\FormsPortable.WinPhone.csproj;neutral
+C:\Projects\xamarintemplatestest\FormsPortable\FormsPortable\FormsPortable.csproj;neutral

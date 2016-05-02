@@ -1,0 +1,15 @@
+C:\Projects\xamarintemplatestest\BlankAndroid\bin\Debug\BlankAndroid.dll
+C:\Projects\xamarintemplatestest\BlankAndroid\bin\Debug\BlankAndroid.pdb
+C:\Projects\xamarintemplatestest\BlankAndroid\bin\Debug\BlankAndroid.BlankAndroid.apk
+C:\Projects\xamarintemplatestest\BlankAndroid\bin\Debug\BlankAndroid.BlankAndroid-Signed.apk
+C:\Projects\xamarintemplatestest\BlankAndroid\obj\Debug\BlankAndroid.csprojResolveAssemblyReference.cache
+C:\Projects\xamarintemplatestest\BlankAndroid\obj\Debug\BlankAndroid.dll
+C:\Projects\xamarintemplatestest\BlankAndroid\obj\Debug\BlankAndroid.pdb
+C:\Projects\xamarintemplatestest\BlankAndroid\obj\Debug\android\bin\BlankAndroid.BlankAndroid.apk
+C:\Projects\xamarintemplatestest\BlankAndroid\obj\Debug\res\layout\main.xml
+C:\Projects\xamarintemplatestest\BlankAndroid\obj\Debug\res\values\strings.xml
+C:\Projects\xamarintemplatestest\BlankAndroid\obj\Debug\res\drawable\icon.png
+C:\Projects\xamarintemplatestest\BlankAndroid\obj\Debug\R.cs.flag
+C:\Projects\xamarintemplatestest\BlankAndroid\obj\Debug\uploadflags.txt
+C:\Projects\xamarintemplatestest\BlankAndroid\obj\Debug\BlankAndroid.dll.mdb
+C:\Projects\xamarintemplatestest\BlankAndroid\bin\Debug\BlankAndroid.dll.mdb

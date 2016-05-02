@@ -1,0 +1,9 @@
+C:\Projects\xamarintemplatestest\CPNativePortable\CPNativePortable\bin\Debug\CPNativePortable.dll
+C:\Projects\xamarintemplatestest\CPNativePortable\CPNativePortable\bin\Debug\CPNativePortable.pdb
+C:\Projects\xamarintemplatestest\CPNativePortable\CPNativePortable\obj\Debug\CPNativePortable.csprojResolveAssemblyReference.cache
+C:\Projects\xamarintemplatestest\CPNativePortable\CPNativePortable\obj\Debug\CPNativePortable.dll
+C:\Projects\xamarintemplatestest\CPNativePortable\CPNativePortable\obj\Debug\CPNativePortable.pdb
+C:\Projects\xamarintemplatestest\CPNativePortable\CPNativePortable\obj\Debug\CPNativePortable.dll.mdb
+C:\Projects\xamarintemplatestest\CPNativePortable\CPNativePortable\bin\Debug\CPNativePortable.dll.mdb
+C:\Projects\xamarintemplatestest\CPNativePortable\CPNativePortable\obj\Debug\CPNativePortable.dll.mdb
+C:\Projects\xamarintemplatestest\CPNativePortable\CPNativePortable\bin\Debug\CPNativePortable.dll.mdb

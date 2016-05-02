@@ -1,0 +1,4 @@
+CPNativeShared.Droid.MainActivity, CPNativeShared.Droid;md51a55b8d252201f6a15fa449250e88ac4.MainActivity
+CPNativeShared.Droid.MainActivity, CPNativeShared.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51a55b8d252201f6a15fa449250e88ac4.MainActivity
+CPNativeShared.Droid.MainActivity;md51a55b8d252201f6a15fa449250e88ac4.MainActivity
+cpnativeshared.droid.MainActivity;md51a55b8d252201f6a15fa449250e88ac4.MainActivity
